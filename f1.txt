@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is maiiin branch
 this is not  branch3
+=======
+this is branch3
+>>>>>>> branch3
